@@ -1,4 +1,4 @@
-TOKEN = '5844172782:AAFj0zbHuYvozC0hqaYcJNQ6GHCiQUcIHjQ'
+TOKEN = 'place_token here'
 
 crypto_dict = {
     'доллар': 'USD',
